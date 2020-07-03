@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747502199781",
+    "firebase_url": "https://saythename17.firebaseio.com",
+    "project_id": "saythename17",
+    "storage_bucket": "saythename17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747502199781:android:a4dcfc09c8fb5645e2450c",
+        "android_client_info": {
+          "package_name": "com.icandothisallday2020.ex83firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747502199781-6b3loa8delpgdb5emcvveh1hi66hcq4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ke29Po6hrQ8Qd5BbtDZ_nl-38BcJCVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747502199781-6b3loa8delpgdb5emcvveh1hi66hcq4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
